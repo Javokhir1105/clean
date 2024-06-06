@@ -1,0 +1,20 @@
+.modal{
+    width: 300px;
+    height: 900px;
+    border: 1px solid black;
+}
+.modli{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.modimg{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
+.modimg1{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}

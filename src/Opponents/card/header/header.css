@@ -1,0 +1,41 @@
+.head{
+    max-width: 1440px;
+    padding: 25px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.headul{
+    width: 1000px;
+    justify-content: space-between;
+    align-items: center;
+}
+.rasmlar{
+    margin-right: 20px;
+    margin-bottom: 5px;
+    width: 20px;
+    height: 17px;
+}
+.rasmlar2{
+    margin-right: 20px;
+    width: 116px;
+    height: 25px;
+}
+.rasmlar3{
+    margin-top: 5px;
+    width: 716px;
+    height: 35px;
+}
+.rasmlar4{
+    margin-right: 20px;
+    width: 176px;
+    height: 32px;
+}
+.rasmlar5{
+    width: 40px;
+    height: 40px;
+}
+
+
+
